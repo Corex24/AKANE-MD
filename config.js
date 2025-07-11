@@ -9,11 +9,11 @@ const fs = require("fs")
 require('dotenv').config(); 
 
 //================= { SETTINGS } =================\\
-global.owner = process.env.OWNER_NUMBER || "234"; // owner number 
-global.botimg = 'https://files.catbox.moe/l9gpzm.jpg'
+global.owner = process.env.OWNER_NUMBER || "2348036869669"; // owner number 
+global.botimg = 'https://files.catbox.moe/wp6q5l.jpeg'
 global.sudo = process.env.SUDO  || " ";
-global.ownername = process.env.OWNER_NAME || "Richie";
-global.botname = process.env.BOT_NAME || "AKANE"
+global.ownername = process.env.OWNER_NAME || "𝐶𝛩𝑅𝛯𝛸_𝛥𝛮𝑇𝛨𝛩𝛮𝑌";
+global.botname = process.env.BOT_NAME || "Corex-md"
 global.onlypc = process.env.ONLYPC_MSG  || "Sorry buddy the bot won't work directly in group chat to reduce spam use in private chat";
 global.onlygc = process.env.ONLYGC_MSG  || "Sorry buddy the bot won't work directly in private chat to reduce spam use in group";
 global.session = process.env.SESSION_ID || ""
@@ -40,7 +40,7 @@ global.loc = "1"
 global.domain = "add_domaim_url"
 global.apikey = "add_api_key"
 global.capikey = "add_capikey"
-global.creatorName = "Richie"
+global.creatorName = "Corex"
 
 //==========================
     
